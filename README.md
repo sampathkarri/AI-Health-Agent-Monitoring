@@ -46,7 +46,7 @@ To run this project on your local machine, please follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/[sampathkarri]/AI-Health-Agent.git
+git clone https://github.com/sampathkarri/AI-Health-Agent-Monitoring
 cd AI-Health-Agent
 
 2. Create and activate a virtual environment:
